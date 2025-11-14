@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Front-end Developer
-
+Front-end Developer with strong experience in building responsive, user-focused web interfaces using React, JavaScript, and modern UI libraries. Skilled in translating designs into clean, optimized code and delivering high-quality features in real projects
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Br5WbgMsv/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed.saiko_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-torky-7b1406325?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedmohamed04511@gmail.com) 
